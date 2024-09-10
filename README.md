@@ -1,4 +1,4 @@
-# COMS4157-demo
+# COMS4156-demo
 ## How to build and run tests for C++ code?
 ### Step 1
  Run the command:
